@@ -12,6 +12,7 @@ public class Client {
 		System.out.println("MANAGER SALARY IS : "+ManagerSalary);
 		int LabourSalary = labour.CalculateSalary();
 		System.out.println("SALARY OF LABOUR IS : "+LabourSalary);
+System.out.println("Thankyou!!");
 	}
 
 }
